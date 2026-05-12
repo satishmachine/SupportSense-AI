@@ -1,4 +1,6 @@
+ipykernel 
 langgraph
 langchain-groq
 python-dotenv
 langchain-openai
+streamlit
